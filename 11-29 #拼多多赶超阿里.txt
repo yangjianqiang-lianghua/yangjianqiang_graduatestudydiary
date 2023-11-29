@@ -1,0 +1,59 @@
+杨建强读研日记 2023-11-29 星期三   农历 2023-10-17
+实验：
+继续摸鱼，但是明天组会，摸得有点焦虑。
+
+交易：
+查理·芒格走了。
+拼多多市值要赶上阿里了，从去年低点涨了5倍，而阿里还在地位徘徊。今年记得看过一期的财新周刊讲互联网大厂用人中提到拼多多，称公司是高度物化和高效率的公司。对于996，招聘时明确告知，入职后每天工作时间要超过12小时，但薪资待遇很高。当时BAT风头无两，现在拼多多能硬杀进来，肯定是背后有付出的东西。
+
+
+阅读：
+思考：
+今天读外媒，尤其是wsj的《央行行长呼吁加大经济转型力度》发现有个缺点，过去经常说这些媒体只阐述事实，而不提供观点，表现的相对客观。虽然这篇文章的内容都是引用了行长的演讲稿，各种“表示、说、提到、强调”，但是这个标题起的有点带主观意愿了。这个演讲全文在官网可以查到。至于wsj起的这个标题，尤其是带“呼吁”这个词，有些不合适。正文是：【分析经济需要注意两个视角。一是......。二是正在经历经济增长模式的转型。传统增长模式过度依赖基础设施和房地产投资，也许短期内能实现更高增速，但也会固化结构性矛盾，损害增长的可持续性。高质量和可持续发展更加重要，我们必须更加关注经济结构调整，培育新的增长点。这是我们必须要经历的转型之路。】
+这个“二是”后面的内容，说实话现在国内只要沾点理性客观的论坛、峰会等场合，都会有这种提法。
+而行长在说这段“经济转型”的内容前，有个大前提就是“分析经济需要注意两个视角”。
+这甚至都不是单独的呼吁，而且除了这段话提到了“转型、结构调整”，整个演讲内容大部分都是官方话语。
+而wsj却把这段话摘出来，以此凸显这个话题，感觉有点牵强。
+可能是外媒觉得只能从政策制定者在外面的论坛、峰会上讲话，才能推测未来政策走向，而不是看当下实际客观环境？如果真是这样情况的话，那真不是他们的做法太悲哀，而是我们环境太。
+再说客观，曾经在微博写过一段话，还算有点逼格，这里贴出来（因为不能改微博名所以销号重开了，具体内容不记得），再附上英文。
+信息分两种，事实类和观点类，观点类从来不客观。但事实类有时候也能把人带偏，比如：真话说一半也是假话；把事实有选择性地拿出来，或者把精心挑选的事实放在一起也是在骗人。
+There are two types of information: factual and viewpoint, and viewpoint is never objective. But factual information can sometimes lead people astray, for example: half the truth is also false; Selectively presenting facts or putting carefully selected facts together is also deceiving.
+最后总结下外媒有些新闻报道的一个套路，也算这半年没白看。他们通常把某影响力大的公众人物在公共场合的演讲内容分段写出来，最后写一个和演讲内容相关的背景情况。对这种新闻最好还是直接看这个人的演讲原文，至于原因，就是上面那段装逼的话。
+====
+经济学人上一篇文章提到的书籍：
+一本“八卦”、把达里奥拉下“神坛”的书籍，《纽约时报》记者罗伯·科普兰关于达里奥的新书《基金》（The Fund）
+【这本书的叙述分为两点。一个是达利欧先生的“原则”，他称之为以“彻底的透明度”为中心的哲学，实际上只不过是他用来欺负员工的浪费时间的工具。第二，桥水的成功“没有秘诀”。达里奥的数百名研究人员撰写了他甚至没有读过的报告。科普兰声称，达里奥先生自己做出了所有的投资决定，或者得到了副手的一些意见。
+正如他告诉客户的那样，他远没有一套成文的规则，而是使用直觉和简单的“如果那么”陈述，例如：如果一个国家的利率下降，那么你应该卖出它的货币。故事说，这些措施在一段时间内奏效了，但高频交易员和量化基金的兴起，往往跟随市场“动量”，侵蚀了他的优势。在过去的10年或15年里，桥水的旗舰“Pure Alpha”基金的回报一直微不足道。
+两者交织在一起的结论：对布里奇沃特的崇拜毫无意义。
+达里奥先生断然驳回了科普兰先生的书。他写道，这是“另一本耸人听闻且不准确的小报书籍，旨在向喜欢八卦的人出售书籍”。】
+这本书和达里奥本人的《原则》简直是两个极端，可现实的人是在两个光谱中间矛盾地活着。
+知乎上这本书已经吵起来了，但是这个问题的提问者确是一个机构号。有时间做个书籍节选感觉挺有流量的，像前段时间马斯克新书出来时，爆出来好多八卦那样。
+
+
+英语：
+flipside 不明显的一面，反面，负面
+In the wake of US’s retreat,随着美国的撤退，
+the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.平静地接受我无法改变的事情，勇敢地改变我能改变的事情以及知道区别的智慧
+"The long-term outlook for stocks, which have historically been the main source of investors’ returns" 的汉语意思是 "股票的长期前景一直是投资者回报的主要来源（historically 历来是，没翻译好）
+years of disappointing returns.多年令人失望的回报。（该翻译为多年 years 复数也没注意 ）
+"Markets have dealt them a bad hand." 的汉语意思是 "市场给他们发了一张烂牌。" 在这个句子中，“dealt a bad hand” 是一个习惯用语，表示某人或某事遇到了不利的境况或情况，而且通常是由于难以控制的外部因素造成的。
+"Has rarely been more apt" 的汉语意思是 "很少有比这更恰当的了。" （最烦像rarely、hardly这种否定形式了了）
+apply to适用于
+time-worn陈旧的
+for the moment 暂时
+Pets can also be used to market other items.宠物也可以用来推销其他物品。（market在to后面应该看作动词，一下子没反应过来）
+第一次看到八股文的翻译：eight-legged essay
+"i knows to take that sort of stubborn, unflashy ambition seriously" 的汉语意思是 "我知道要认真看待那种顽固、低调的野心。"（副词seriously放在最后，而不是在动词旁边有点不习惯）
+"guaranteeing a fair shot for the diligent is one promise" 的汉语意思是 "为勤奋者提供公平的机会是一个承诺。"。在这个句子中，"shot" 表示 "机会" 的意思，通常用于描述某人获得成功的机会或可能性。
+"Such a concatenation of crises is hardly unprecedented" 的汉语意思是 "这样一连串的危机并不罕见。"。（concatenation一系列相关联的事物，hardly unprecedented双重否定）
+"The new world disorder is putting the institutional capacity of America and its allies under stress" 的汉语意思是 "新世界无序正在对美国及其盟友的制度能力施加压力。"（put、push这些词需要结合后面的单词 under stress，但经常忽视，导致翻译不好这种句子）
+A world in which more crises occur together poses two sorts of challenges to those tasked with managing them. 一个同时发生更多危机的世界对负责管理危机的人提出了两种挑战。
+"The concurrence of crises presents a larger, strategic problem" 的汉语意思是 "危机的并发导致了更大的战略性问题。" 
+"keynote speaker" 的汉语意思是 "主旨发言人"。
+"their hurry to implement them" 的汉语意思是 "他们匆忙实施这些计划"。其中，“hurry” 意思是 “赶紧，抓紧时间”，在这个句子中表示某人或某组织急于完成某个任务或目标，可能会因为太过急躁而忽略重要的细节。
+"Cookie-cutter approach" 是一个习惯用语，意思是 "千篇一律的方法" 或 "模板式的处理"。
+in the year to September.在截至9月的一年中。
+
+碎碎念：
+做饭不能光顾颜色搭配，还得看是否串味，水焯的扁芸豆、胡萝卜、茄子，看着颜色搭配挺好，但最后还是有股水煮的味道，也可能是水焯的扁芸豆最后放的原因吧。
+那对夫妻开始带货了，这挺好的，就是不明白为什么带中医，这下给别人递刀了，流量来了没接住啊，估计后面风评会坏下去。
